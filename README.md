@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NkariukiS
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning ethical hacking 
-- 💞️ I’m looking to collaborate on pentesting project 
+- 👀 I’m interested in exploring the world of technology and fashion too
+- 🌱 I’m currently learning machine learning 
+- 💞️ I’m looking to collaborate with a company that supports upcoming techies 
 - 📫 How to reach me 038sophienk@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 😁 
